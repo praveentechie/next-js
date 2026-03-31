@@ -1,0 +1,17 @@
+{
+  "todo-tree.general.tags": [
+    "[JS]",
+    "[REACT]",
+    "[NEXT]",
+    "[LEARN]",
+    "[WHY]",
+    "[GOTCHA]",
+    "[REF]",
+    "[BACKLOG]"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "[JS]": { "icon": "file-code", "foreground": "#f1e05a" },
+    "[REACT]": { "icon": "rocket", "foreground": "#61DAFB" },
+    "[NEXT]": { "icon": "arrow-right", "foreground": "#ffffff" }
+  }
+}
