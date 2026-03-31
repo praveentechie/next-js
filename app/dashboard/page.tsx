@@ -25,6 +25,7 @@ const Dashboard = async () => {
       </Button>
       <div className="flex flex-row gap-4">
         <div className="flex flex-col gap-4 w-3/4">
+          {/* [NEXT] [LEARN]: mutation server action */}
           <form action={createPost}>
             <input type="text" placeholder="Title" name="title" />
             <Button type="submit">Add Post</Button>
